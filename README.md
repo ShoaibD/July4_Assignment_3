@@ -8,7 +8,7 @@
 <!-- Animated waving emoji -->
 <p align="center">👋 <b>Hello there!</b></p>
 
-Hi! I'm **[Your Name]**, a passionate developer, open-source enthusiast, and lifelong learner. I build impactful solutions and love exploring new technologies.
+Hi! I'm **Shoaib Danish**, a passionate developer, open-source enthusiast, and lifelong learner. I build impactful solutions and love exploring new technologies.
 
 ---
 
