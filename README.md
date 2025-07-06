@@ -1,4 +1,4 @@
-# 🎵 Lucy - AI-Powered Music Recommendation System
+# 🎵 Music Recommendation System
 
 ![Lucy Logo](https://your-image-url.com/logo.png) *(Replace with an actual image/gif)*
 
@@ -17,7 +17,7 @@
 
 ## 📝 Project Overview
 
-**Lucy** is a scalable, open-source music recommendation engine that leverages cutting-edge machine learning algorithms to deliver personalized song suggestions. Perfect for developers looking to enhance music apps or researchers exploring recommendation systems. Lucy analyzes user listening patterns and preferences to curate a tailored playlist experience.
+**Music Recommendation System** is a scalable, open-source music recommendation engine that leverages cutting-edge machine learning algorithms to deliver personalized song suggestions. Perfect for developers looking to enhance music apps or researchers exploring recommendation systems. Lucy analyzes user listening patterns and preferences to curate a tailored playlist experience.
 
 ---
 
@@ -121,6 +121,6 @@ Configure your API keys and preferences in the config files or environment varia
 This project is licensed under the MIT License. See the LICENSE file for details.
 📞 Contact
 
-    Email: your.email@example.com
-    GitHub: yourgithub
+    Email: Shoaib.Danish@triosstudent.com
+    GitHub: https://github.com/ShoaibD
     Twitter: @yourtwitter
